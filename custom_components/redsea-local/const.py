@@ -1,1 +1,1 @@
-DOMAIN = "redsea"
+DOMAIN = "redsea-local"
